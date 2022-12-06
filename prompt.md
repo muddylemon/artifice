@@ -71,8 +71,7 @@
 * Robert McGinnis
 * Howell Dodd
 * Victor Prezio
-* Philippe Caza 
-
+* Philippe Caza
 
 ### Surrealists
 
@@ -92,9 +91,22 @@
 * Jacek Yerka
 * Paul Nash
 
-### Ports
+### Modern Portrait Artists
 
-> Elizabeth Peyton, Richard Avedon, Frank Auerback, Sharon Sprung, Anastasia Pollard, Tai-Shan Schierenberg, Toby Wiggins, Jamie Coreth, Julia Condon, Lizzie Riches, Neale Worley, Samuel Adoquei, Samira Addo, Brenda Zlamany
+* Elizabeth Peyton
+* Richard Avedon
+* Frank Auerback
+* Sharon Sprung
+* Anastasia Pollard
+* Tai-Shan Schierenberg
+* Toby Wiggins
+* Jamie Coreth
+* Julia Condon
+* Lizzie Riches
+* Neale Worley
+* Samuel Adoquei
+* Samira Addo
+* Brenda Zlamany
 
 ### Mormons
 
@@ -104,13 +116,29 @@
 
 ### Romanians
 
-> Corneliu Baba, Nicolae Tonitza, Niculiţă Secrieriu, Ștefan Câlția, El Greco, Goya
+* Corneliu Baba
+* Nicolae Tonitza
+* Niculiţă Secrieriu
+* Ștefan Câlția
+* El Greco
+* Goya
 
 ### Medieval
 
 > Ambrogio Lorenzetti or Lorenzo Monaco or Pisanello or Sassetta or Jean Fouquet
-
 > Simone Martini or Duccio di Buoninsegna or Giotto di Bondone
+
+### Wild West
+
+* George Catlin
+* Charles Marion Russell
+* Albert Bierstadt
+* Thomas Moran
+* Frederic Remington
+* Frank Tenney Johnson
+* Joe Beeler
+* Herman Wendelborg Hansen
+* Elbridge Ayer Burbank
 
 # PhotoRealistic Prompts
 
@@ -120,7 +148,7 @@
 
 ### Realistic
 
-> anime, cartoon, fake, boring, 3d render, long neck, out of frame, extra fingers, mutated hands, monochrome, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, glitchy, bokeh, (((long neck))), ((out of frame)), red eyes, multiple subjects, extra heads, text, watermarks, logo, asymmetric pupils
+> anime, cartoon, fake, boring, tiled, long neck, out of frame, extra fingers, mutated hands, monochrome, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, glitchy, bokeh, (((long neck))), ((out of frame)), red eyes, multiple subjects, extra heads, text, watermarks, logo, asymmetric pupils
 
 ### Portrait Fixes
 
