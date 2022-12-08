@@ -31,6 +31,16 @@
 
 * James Baldwin
 * Thurgood Marshall
+* Fred Hampton
+* Malcolm X
+* Stokely Carmichael
+* Huey P. Newton
+* Bobby Seale
+* Eldridge Cleaver
+* John Lewis
+* Angela Davis
+* Assata Shakur
+* Betty Friedan
 
 ## Rappers
 

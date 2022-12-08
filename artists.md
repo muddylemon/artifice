@@ -1,5 +1,9 @@
 # Painters
 
+## Black
+
+* Beauford Delaney
+
 ## French
 
 * Henri Gervex
