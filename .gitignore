@@ -1,2 +1,14 @@
 *.png
 *.jpg
+*.jpeg
+*.gif
+
+.DS_Store
+Thumbs.db
+
+# Ignore all files in the node_modules folder
+node_modules/
+
+
+
+

@@ -7,3 +7,9 @@
 ### Portrait Fixes
 
 > long neck, two people, two face, text, bokeh, textured eyes, oblong iris, oval iris, ptosis, anisocoria, asymmetric pupils
+
+> low quality, worst quality, (3d model:0.4), [:(blurry, jpeg artifacts:1.2):0.4]
+
+> (ugly, cartoon, bad anatomy, bad art, frame, deformed, disfigured, extra limbs, text, meme, low quality, mutated, ordinary, overexposed, pixelated, poorly drawn, signature, thumbnail, too dark, too light, unattractive, useless, watermark, writing, cropped:1.1)
+
+> long neck, text, watermarks, cropped:1.2, mutation, out of frame, extra fingers, mutated hands, monochrome, red eyes, signature, meme, low quality, logo,

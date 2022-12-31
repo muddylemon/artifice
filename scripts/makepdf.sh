@@ -1,0 +1,1 @@
+convert *.png -resize 1190x1648 -gravity center -background white -extent 1190x1648 techcolor.pdf

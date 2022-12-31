@@ -1,0 +1,115 @@
+
+https://huggingface.co/wavymulder/Analog-Diffusion/resolve/main/images/page1.jpg
+
+Page 1, in order left to right, top to bottom:
+
+analog style closeup portrait of cowboy George Washington
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3730721345, Size: 768x1024, Denoising strength: 0.4, First pass size: 0x0
+
+(I don't know why "cowboy" made this work how it did lol)
+
+analog style blonde Princess Peach in the mushroom kingdom
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2346235940, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style portrait of cosmonaut Johnny Cash
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1624745865, Size: 768x1024, Denoising strength: 0.4, First pass size: 0x0
+
+analog style closeup portrait of Emma Stone, background futuristic neon at night storefront
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1191447504, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style portrait of beautiful young Zoe Saldana 1950s hollywood glamour
+Negative prompt: blur haze naked
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3466625277, Size: 576x832, Denoising strength: 0.4, First pass size: 0x0
+
+analog style photograph of young Harrison Ford as Han Solo, star wars behind the scenes
+Negative prompt: blur haze weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 185589077, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style Lady Gaga as a 1960s
+Negative prompt: blur haze hdr naked
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4050111649, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style portrait of Heath Ledger as a 1930s baseball player
+Negative prompt: blur haze weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 869197698, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+
+
+
+
+
+https://huggingface.co/wavymulder/Analog-Diffusion/resolve/main/images/page2.jpg
+
+Page 2, in order left to right, top to bottom:
+
+analog style christmas lights night neighborhood decorated
+Negative prompt: blur haze naked weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1191229171, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style an amazing vista
+Negative prompt: blur haze
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 4154556393, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style a gaudy mansion interior
+Negative prompt: blur haze
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1182670394, Size: 1024x768, Denoising strength: 0.4, First pass size: 0x0
+
+analog style film still of Audrey Hepburn at a neon convenience storefront
+Negative prompt: blur haze hdr
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1102981569, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style cozy comfy cabin interior
+Negative prompt: blur haze naked weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2559884475, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style at night a campsite under the stars
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3798055821, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style a wes anderson art deco building
+Negative prompt: blur haze
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 943802667, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style epic explosion
+Negative prompt: blur haze
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 4190436474, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+analog style spooky haunted house in a cemetery
+Negative prompt: blur c
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2250388373, Size: 960x704, Denoising strength: 0.4, First pass size: 0x0
+
+
+
+
+
+
+https://huggingface.co/wavymulder/Analog-Diffusion/resolve/main/images/page3.jpg
+
+Page 3, in order left to right, top to bottom:
+
+analog style portrait of a lion
+Negative prompt: blur haze
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 923811059, Size: 704x1024, Denoising strength: 0.3, First pass size: 0x0
+
+analog style portrait of a knight on Mars
+Negative prompt: blur haze naked weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2315617348, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style cyberpunk portrait of a cute girl, beautiful
+Negative prompt: blur haze naked weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1809542040, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style cyberpunk portrait of a handsome young man
+Negative prompt: blur haze naked weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3026358048, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style portrait of a hipster
+Negative prompt: blur haze naked weapon
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4209566602, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0
+
+analog style owl
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3349041283, Size: 704x960, Denoising strength: 0.4, First pass size: 0x0

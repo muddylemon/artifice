@@ -1,0 +1,22 @@
+{
+  "name": "artifice",
+  "version": "1.0.0",
+  "description": "ai image utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muddylemon/artifice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muddylemon/artifice/issues"
+  },
+  "homepage": "https://github.com/muddylemon/artifice#readme",
+  "dependencies": {
+    "image-downloader": "^4.3.0"
+  }
+}
